@@ -1,0 +1,1 @@
+{"name":"petclaw-capsules","private":true,"scripts":{"start":"node server.cjs","test":"node --test tests/backend.test.cjs"},"engines":{"node":">=22.13"}}
